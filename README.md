@@ -7,7 +7,6 @@ Recruiters post jobs; candidates apply and take a **live voice interview with an
 - **Real-time voice interview** over LiveKit (WebRTC), with a natural-sounding interviewer voice (Cartesia TTS)
 - **Question generation and answer evaluation** with Google Gemini, using separate evaluator and report-writer roles
 - **Proctoring**: face detection and eye-contact tracking with MediaPipe + OpenCV
-- **Voice analysis** of answers (tone / confidence signals)
 - **Recruiter dashboard**: job postings, candidate pipeline chart, candidate drawer with the full AI report, CSV export
 - **Candidate dashboard**: applications, interview status, results
 - Resume parsing (PDF / DOCX), media storage on ImageKit, email notifications
